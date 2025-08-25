@@ -1,0 +1,97 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,representativity,leverage,conviction,zhangs_metric,jaccard,certainty,kulczynski
+frozenset({'red hanging heart t-light holder'}),frozenset({'white hanging heart t-light holder'}),0.060,0.178,0.043,0.718,4.028,1.000,0.033,2.915,0.800,0.222,0.657,0.480
+frozenset({'sweetheart ceramic trinket box'}),frozenset({'strawberry ceramic trinket box'}),0.047,0.071,0.036,0.764,10.696,1.000,0.033,3.928,0.951,0.437,0.745,0.634
+frozenset({'toilet metal sign'}),frozenset({'bathroom metal sign'}),0.028,0.042,0.023,0.805,19.101,1.000,0.021,4.911,0.975,0.475,0.796,0.671
+frozenset({'painted metal pears assorted'}),frozenset({'assorted colour bird ornament'}),0.023,0.076,0.017,0.755,9.916,1.000,0.015,3.776,0.920,0.209,0.735,0.490
+frozenset({'kitchen metal sign'}),frozenset({'bathroom metal sign'}),0.021,0.042,0.017,0.826,19.589,1.000,0.016,5.489,0.969,0.373,0.818,0.615
+frozenset({'red retrospot sugar jam bowl'}),frozenset({'red retrospot small milk jug'}),0.024,0.038,0.017,0.701,18.665,1.000,0.016,3.220,0.970,0.378,0.689,0.576
+"frozenset({'key fob , back door '})","frozenset({'key fob , shed'})",0.022,0.026,0.017,0.744,28.542,1.000,0.016,3.802,0.987,0.525,0.737,0.692
+frozenset({'set/10 blue spotty party candles'}),frozenset({'set/10 pink spotty party candles'}),0.020,0.025,0.016,0.812,32.894,1.000,0.016,5.178,0.990,0.577,0.807,0.739
+"frozenset({'key fob , garage design'})","frozenset({'key fob , shed'})",0.020,0.026,0.016,0.809,31.038,1.000,0.016,5.096,0.988,0.549,0.804,0.720
+"frozenset({'jumbo bag pink with white spots', 'jumbo bag strawberry'})",frozenset({'jumbo bag red retrospot'}),0.022,0.089,0.016,0.716,8.016,1.000,0.014,3.203,0.895,0.166,0.688,0.447
+"frozenset({""poppy's playhouse bedroom""})","frozenset({""poppy's playhouse kitchen""})",0.018,0.020,0.016,0.891,44.773,1.000,0.015,8.961,0.995,0.724,0.888,0.843
+"frozenset({""poppy's playhouse kitchen""})","frozenset({""poppy's playhouse bedroom""})",0.020,0.018,0.016,0.794,44.773,1.000,0.015,4.778,0.998,0.724,0.791,0.843
+"frozenset({'jumbo storage bag suki', 'jumbo bag strawberry'})",frozenset({'jumbo bag red retrospot'}),0.020,0.089,0.015,0.733,8.207,1.000,0.013,3.406,0.896,0.155,0.706,0.448
+"frozenset({'wood 2 drawer cabinet white finish', 'wooden picture frame white finish'})",frozenset({'wooden frame antique white'}),0.018,0.062,0.014,0.816,13.149,1.000,0.013,5.089,0.941,0.221,0.803,0.524
+"frozenset({'wood 2 drawer cabinet white finish', 'wooden frame antique white'})",frozenset({'wooden picture frame white finish'}),0.018,0.050,0.014,0.782,15.691,1.000,0.013,4.358,0.954,0.268,0.771,0.536
+frozenset({'green regency teacup and saucer'}),frozenset({'roses regency teacup and saucer'}),0.017,0.019,0.014,0.827,42.630,1.000,0.014,5.678,0.994,0.638,0.824,0.782
+frozenset({'roses regency teacup and saucer'}),frozenset({'green regency teacup and saucer'}),0.019,0.017,0.014,0.736,42.630,1.000,0.014,3.718,0.996,0.638,0.731,0.782
+"frozenset({'lunch bag woodland', 'lunch bag pink retrospot'})",frozenset({'lunch bag red spotty'}),0.020,0.075,0.014,0.703,9.349,1.000,0.013,3.115,0.912,0.176,0.679,0.446
+"frozenset({""poppy's playhouse livingroom""})","frozenset({""poppy's playhouse kitchen""})",0.015,0.020,0.014,0.915,45.989,1.000,0.014,11.503,0.994,0.667,0.913,0.813
+"frozenset({""poppy's playhouse kitchen""})","frozenset({""poppy's playhouse livingroom""})",0.020,0.015,0.014,0.711,45.989,1.000,0.014,3.404,0.998,0.667,0.706,0.813
+"frozenset({'wood 2 drawer cabinet white finish', 'wooden frame antique white'})",frozenset({'wood s/3 cabinet ant white finish'}),0.018,0.042,0.014,0.756,18.020,1.000,0.013,3.921,0.962,0.300,0.745,0.544
+"frozenset({'wood s/3 cabinet ant white finish', 'wooden frame antique white'})",frozenset({'wood 2 drawer cabinet white finish'}),0.019,0.037,0.014,0.720,19.356,1.000,0.013,3.444,0.967,0.327,0.710,0.547
+"frozenset({'wooden picture frame white finish', 'wood s/3 cabinet ant white finish'})",frozenset({'wooden frame antique white'}),0.016,0.062,0.014,0.840,13.536,1.000,0.013,5.850,0.942,0.213,0.829,0.531
+"frozenset({'wood s/3 cabinet ant white finish', 'wooden frame antique white'})",frozenset({'wooden picture frame white finish'}),0.019,0.050,0.014,0.713,14.313,1.000,0.013,3.314,0.948,0.249,0.698,0.495
+frozenset({'blue  spotty cup'}),frozenset({'pink  spotty cup'}),0.019,0.019,0.013,0.723,38.627,1.000,0.013,3.541,0.992,0.561,0.718,0.719
+frozenset({'pink  spotty cup'}),frozenset({'blue  spotty cup'}),0.019,0.019,0.013,0.715,38.627,1.000,0.013,3.442,0.993,0.561,0.709,0.719
+"frozenset({'red 3 piece mini dots cutlery set', 'pink 3 piece mini dots cutlery set'})",frozenset({'blue 3 piece mini dots cutlery set'}),0.017,0.031,0.013,0.774,24.933,1.000,0.013,4.291,0.977,0.381,0.767,0.601
+"frozenset({'wooden picture frame white finish', 'wood s/3 cabinet ant white finish'})",frozenset({'wood 2 drawer cabinet white finish'}),0.016,0.037,0.013,0.802,21.540,1.000,0.013,4.855,0.969,0.325,0.794,0.578
+"frozenset({'wood 2 drawer cabinet white finish', 'wooden picture frame white finish'})",frozenset({'wood s/3 cabinet ant white finish'}),0.018,0.042,0.013,0.745,17.769,1.000,0.012,3.759,0.961,0.284,0.734,0.530
+"frozenset({'jumbo  bag baroque black white', 'jumbo bag strawberry'})",frozenset({'jumbo bag red retrospot'}),0.018,0.089,0.013,0.735,8.238,1.000,0.012,3.442,0.895,0.139,0.709,0.441
+"frozenset({'jumbo bag pink with white spots', 'jumbo  bag baroque black white'})",frozenset({'jumbo bag red retrospot'}),0.018,0.089,0.013,0.733,8.206,1.000,0.012,3.405,0.894,0.139,0.706,0.440
+"frozenset({""poppy's playhouse livingroom""})","frozenset({""poppy's playhouse bedroom""})",0.015,0.018,0.013,0.839,47.261,1.000,0.013,6.085,0.994,0.640,0.836,0.785
+"frozenset({""poppy's playhouse bedroom""})","frozenset({""poppy's playhouse livingroom""})",0.018,0.015,0.013,0.730,47.261,1.000,0.013,3.653,0.997,0.640,0.726,0.785
+"frozenset({'key fob , front  door '})","frozenset({'key fob , back door '})",0.016,0.022,0.013,0.805,35.856,1.000,0.013,5.018,0.988,0.504,0.801,0.690
+frozenset({'coffee mug dog + ball design'}),frozenset({'coffee mug cat + bird design'}),0.016,0.017,0.013,0.781,45.413,1.000,0.013,4.479,0.994,0.617,0.777,0.763
+frozenset({'coffee mug cat + bird design'}),frozenset({'coffee mug dog + ball design'}),0.017,0.016,0.013,0.746,45.413,1.000,0.013,3.872,0.995,0.617,0.742,0.763
+frozenset({'set/6 red spotty paper plates'}),frozenset({'set/20 red spotty paper napkins'}),0.018,0.053,0.013,0.700,13.289,1.000,0.012,3.158,0.942,0.217,0.683,0.470
+"frozenset({'key fob , back door ', 'key fob , garage design'})","frozenset({'key fob , shed'})",0.014,0.026,0.013,0.892,34.214,1.000,0.012,8.987,0.985,0.455,0.889,0.687
+"frozenset({'key fob , shed', 'key fob , garage design'})","frozenset({'key fob , back door '})",0.016,0.022,0.013,0.764,34.009,1.000,0.012,4.137,0.987,0.476,0.758,0.661
+"frozenset({'key fob , back door ', 'key fob , shed'})","frozenset({'key fob , garage design'})",0.017,0.020,0.013,0.751,36.983,1.000,0.012,3.935,0.989,0.513,0.746,0.684
+frozenset({'set/6 red spotty paper cups'}),frozenset({'set/6 red spotty paper plates'}),0.017,0.018,0.012,0.734,40.710,1.000,0.012,3.686,0.992,0.551,0.729,0.711
+frozenset({'green 3 piece mini dots cutlery set'}),frozenset({'red 3 piece mini dots cutlery set'}),0.017,0.033,0.012,0.728,22.408,1.000,0.012,3.562,0.972,0.331,0.719,0.553
+"frozenset({""poppy's playhouse bedroom"", ""poppy's playhouse livingroom""})","frozenset({""poppy's playhouse kitchen""})",0.013,0.020,0.012,0.941,47.315,1.000,0.012,16.662,0.992,0.591,0.940,0.777
+"frozenset({'toilet metal sign', 'kitchen metal sign'})",frozenset({'bathroom metal sign'}),0.014,0.042,0.012,0.898,21.309,1.000,0.012,9.387,0.966,0.280,0.893,0.594
+"frozenset({""poppy's playhouse kitchen"", ""poppy's playhouse livingroom""})","frozenset({""poppy's playhouse bedroom""})",0.014,0.018,0.012,0.863,48.624,1.000,0.012,7.156,0.993,0.620,0.860,0.775
+"frozenset({""poppy's playhouse livingroom""})","frozenset({""poppy's playhouse bedroom"", ""poppy's playhouse kitchen""})",0.015,0.016,0.012,0.789,49.944,1.000,0.012,4.670,0.995,0.640,0.786,0.781
+"frozenset({""poppy's playhouse bedroom"", ""poppy's playhouse kitchen""})","frozenset({""poppy's playhouse livingroom""})",0.016,0.015,0.012,0.772,49.944,1.000,0.012,4.317,0.996,0.640,0.768,0.781
+"frozenset({'bathroom metal sign', 'kitchen metal sign'})",frozenset({'toilet metal sign'}),0.017,0.028,0.012,0.715,25.488,1.000,0.012,3.416,0.977,0.371,0.707,0.575
+frozenset({'childs garden trowel blue'}),frozenset({'childs garden trowel pink'}),0.014,0.014,0.012,0.866,59.806,1.000,0.012,7.373,0.997,0.742,0.864,0.852
+frozenset({'childs garden trowel pink'}),frozenset({'childs garden trowel blue'}),0.014,0.014,0.012,0.837,59.806,1.000,0.012,6.061,0.998,0.742,0.835,0.852
+"frozenset({'wood 2 drawer cabinet white finish', 'wooden picture frame white finish', 'wood s/3 cabinet ant white finish'})",frozenset({'wooden frame antique white'}),0.013,0.062,0.012,0.911,14.678,1.000,0.011,10.483,0.944,0.190,0.905,0.552
+"frozenset({'wooden picture frame white finish', 'wood s/3 cabinet ant white finish', 'wooden frame antique white'})",frozenset({'wood 2 drawer cabinet white finish'}),0.014,0.037,0.012,0.869,23.357,1.000,0.011,7.369,0.971,0.307,0.864,0.596
+"frozenset({'wood 2 drawer cabinet white finish', 'wood s/3 cabinet ant white finish', 'wooden frame antique white'})",frozenset({'wooden picture frame white finish'}),0.014,0.050,0.012,0.861,17.271,1.000,0.011,6.821,0.955,0.232,0.853,0.551
+"frozenset({'wood 2 drawer cabinet white finish', 'wooden picture frame white finish', 'wooden frame antique white'})",frozenset({'wood s/3 cabinet ant white finish'}),0.014,0.042,0.012,0.832,19.835,1.000,0.011,5.694,0.963,0.270,0.824,0.559
+"frozenset({'wooden picture frame white finish', 'wood s/3 cabinet ant white finish'})","frozenset({'wood 2 drawer cabinet white finish', 'wooden frame antique white'})",0.016,0.018,0.012,0.730,39.593,1.000,0.012,3.635,0.991,0.524,0.725,0.690
+frozenset({'childs garden fork pink'}),frozenset({'childs garden trowel pink'}),0.013,0.014,0.012,0.929,64.156,1.000,0.012,13.949,0.997,0.770,0.928,0.874
+frozenset({'childs garden trowel pink'}),frozenset({'childs garden fork pink'}),0.014,0.013,0.012,0.818,64.156,1.000,0.012,5.430,0.999,0.770,0.816,0.874
+"frozenset({'feltcraft cushion owl', 'feltcraft cushion rabbit'})",frozenset({'feltcraft cushion butterfly'}),0.016,0.028,0.012,0.731,25.779,1.000,0.011,3.609,0.977,0.362,0.723,0.574
+"frozenset({'feltcraft cushion owl', 'feltcraft cushion butterfly'})",frozenset({'feltcraft cushion rabbit'}),0.016,0.027,0.012,0.722,27.180,1.000,0.011,3.496,0.979,0.381,0.714,0.584
+frozenset({'green 3 piece mini dots cutlery set'}),frozenset({'pink 3 piece mini dots cutlery set'}),0.017,0.030,0.012,0.704,23.180,1.000,0.011,3.273,0.973,0.335,0.694,0.547
+"frozenset({'strawberry charlotte bag', 'charlotte bag pink with white spots'})",frozenset({'red spotty charlotte bag'}),0.015,0.040,0.012,0.791,19.929,1.000,0.011,4.605,0.964,0.271,0.783,0.541
+"frozenset({'key fob , front  door '})","frozenset({'key fob , shed'})",0.016,0.026,0.012,0.723,27.741,1.000,0.011,3.515,0.980,0.380,0.716,0.584
+"frozenset({'hand warmer scotty dog design', 'hand warmer bird design'})",frozenset({'hand warmer owl design'}),0.016,0.035,0.011,0.706,20.321,1.000,0.011,3.279,0.966,0.286,0.695,0.515
+frozenset({'childs garden fork blue'}),frozenset({'childs garden trowel blue'}),0.012,0.014,0.011,0.931,66.500,1.000,0.011,14.297,0.997,0.757,0.930,0.867
+frozenset({'childs garden trowel blue'}),frozenset({'childs garden fork blue'}),0.014,0.012,0.011,0.802,66.500,1.000,0.011,4.989,0.999,0.757,0.800,0.867
+"frozenset({'charlotte bag pink with white spots', 'charlotte bag suki design'})",frozenset({'red spotty charlotte bag'}),0.016,0.040,0.011,0.723,18.210,1.000,0.011,3.469,0.960,0.255,0.712,0.503
+frozenset({'blue happy birthday bunting'}),frozenset({'pink happy birthday bunting'}),0.016,0.027,0.011,0.707,26.010,1.000,0.011,3.316,0.977,0.347,0.698,0.556
+"frozenset({'jumbo storage bag suki', 'jumbo bag owls'})",frozenset({'jumbo bag red retrospot'}),0.015,0.089,0.011,0.724,8.105,1.000,0.010,3.294,0.890,0.116,0.696,0.423
+"frozenset({""poppy's playhouse bathroom""})","frozenset({""poppy's playhouse kitchen""})",0.011,0.020,0.011,0.951,47.819,1.000,0.011,20.092,0.990,0.529,0.950,0.747
+"frozenset({""poppy's playhouse bathroom""})","frozenset({""poppy's playhouse livingroom""})",0.011,0.015,0.011,0.939,60.754,1.000,0.010,16.147,0.995,0.661,0.938,0.815
+"frozenset({'set/10 blue spotty party candles', 'set/10 red spotty party candles'})",frozenset({'set/10 pink spotty party candles'}),0.013,0.025,0.011,0.845,34.259,1.000,0.010,6.305,0.983,0.398,0.841,0.638
+"frozenset({'set/10 pink spotty party candles', 'set/10 red spotty party candles'})",frozenset({'set/10 blue spotty party candles'}),0.014,0.020,0.011,0.757,37.425,1.000,0.010,4.039,0.987,0.449,0.752,0.641
+frozenset({'childs garden fork pink'}),frozenset({'childs garden trowel blue'}),0.013,0.014,0.011,0.826,59.004,1.000,0.010,5.669,0.996,0.650,0.824,0.789
+frozenset({'childs garden trowel blue'}),frozenset({'childs garden fork pink'}),0.014,0.013,0.011,0.752,59.004,1.000,0.010,3.988,0.997,0.650,0.749,0.789
+"frozenset({'lunch bag spaceboy design', 'lunch bag  black skull.', 'lunch bag pink retrospot'})",frozenset({'lunch bag red spotty'}),0.015,0.075,0.011,0.724,9.625,1.000,0.009,3.348,0.909,0.133,0.701,0.432
+"frozenset({'lunch bag spaceboy design', 'lunch bag red spotty', 'lunch bag pink retrospot'})",frozenset({'lunch bag  black skull.'}),0.015,0.059,0.011,0.700,11.820,1.000,0.010,3.141,0.929,0.165,0.682,0.439
+"frozenset({'key fob , front  door ', 'key fob , shed'})","frozenset({'key fob , back door '})",0.012,0.022,0.010,0.904,40.264,1.000,0.010,10.203,0.987,0.444,0.902,0.685
+frozenset({'pink regency teacup and saucer'}),frozenset({'green regency teacup and saucer'}),0.012,0.017,0.010,0.883,51.167,1.000,0.010,8.402,0.992,0.561,0.881,0.745
+"frozenset({'key fob , back door ', 'key fob , front  door '})","frozenset({'key fob , shed'})",0.013,0.026,0.010,0.812,31.152,1.000,0.010,5.176,0.981,0.367,0.807,0.607
+"frozenset({""poppy's playhouse bathroom"", ""poppy's playhouse livingroom""})","frozenset({""poppy's playhouse kitchen""})",0.011,0.020,0.010,0.974,48.966,1.000,0.010,37.734,0.990,0.515,0.973,0.748
+"frozenset({""poppy's playhouse bathroom"", ""poppy's playhouse kitchen""})","frozenset({""poppy's playhouse livingroom""})",0.011,0.015,0.010,0.962,62.211,1.000,0.010,25.598,0.995,0.655,0.961,0.817
+"frozenset({""poppy's playhouse bathroom""})","frozenset({""poppy's playhouse kitchen"", ""poppy's playhouse livingroom""})",0.011,0.014,0.010,0.915,64.688,1.000,0.010,11.549,0.996,0.688,0.913,0.825
+"frozenset({""poppy's playhouse kitchen"", ""poppy's playhouse livingroom""})","frozenset({""poppy's playhouse bathroom""})",0.014,0.011,0.010,0.735,64.688,1.000,0.010,3.735,0.999,0.688,0.732,0.825
+frozenset({'candleholder pink hanging heart'}),frozenset({'white hanging heart t-light holder'}),0.014,0.178,0.010,0.735,4.125,1.000,0.008,3.104,0.768,0.057,0.678,0.397
+"frozenset({'lunch bag suki  design', 'lunch bag  black skull.', 'lunch bag pink retrospot'})",frozenset({'lunch bag red spotty'}),0.014,0.075,0.010,0.727,9.665,1.000,0.009,3.385,0.909,0.131,0.705,0.432
+"frozenset({'childs garden trowel blue', 'childs garden fork pink'})",frozenset({'childs garden trowel pink'}),0.011,0.014,0.010,0.974,67.217,1.000,0.010,37.450,0.996,0.695,0.973,0.841
+"frozenset({'childs garden fork pink', 'childs garden trowel pink'})",frozenset({'childs garden trowel blue'}),0.012,0.014,0.010,0.865,61.819,1.000,0.010,7.331,0.996,0.658,0.864,0.799
+frozenset({'childs garden fork blue'}),frozenset({'childs garden fork pink'}),0.012,0.013,0.010,0.851,66.696,1.000,0.010,6.607,0.997,0.705,0.849,0.827
+"frozenset({'childs garden trowel blue', 'childs garden trowel pink'})",frozenset({'childs garden fork pink'}),0.012,0.013,0.010,0.846,66.315,1.000,0.010,6.399,0.997,0.701,0.844,0.825
+frozenset({'childs garden fork pink'}),"frozenset({'childs garden trowel blue', 'childs garden trowel pink'})",0.013,0.012,0.010,0.804,66.315,1.000,0.010,5.049,0.998,0.701,0.802,0.825
+frozenset({'childs garden fork pink'}),frozenset({'childs garden fork blue'}),0.013,0.012,0.010,0.804,66.696,1.000,0.010,5.049,0.998,0.705,0.802,0.827
+frozenset({'childs garden trowel blue'}),"frozenset({'childs garden fork pink', 'childs garden trowel pink'})",0.014,0.012,0.010,0.733,61.819,1.000,0.010,3.696,0.998,0.658,0.729,0.799
+frozenset({'childs garden trowel pink'}),"frozenset({'childs garden trowel blue', 'childs garden fork pink'})",0.014,0.011,0.010,0.708,67.217,1.000,0.010,3.390,1.000,0.695,0.705,0.841
+"frozenset({""poppy's playhouse bathroom""})","frozenset({""poppy's playhouse bedroom""})",0.011,0.018,0.010,0.896,50.517,1.000,0.010,9.476,0.991,0.538,0.894,0.735
+frozenset({'childs garden fork blue'}),frozenset({'childs garden trowel pink'}),0.012,0.014,0.010,0.839,57.925,1.000,0.010,6.124,0.995,0.616,0.837,0.769
+frozenset({'pink regency teacup and saucer'}),frozenset({'roses regency teacup and saucer'}),0.012,0.019,0.010,0.848,43.694,1.000,0.010,6.449,0.989,0.474,0.845,0.683
