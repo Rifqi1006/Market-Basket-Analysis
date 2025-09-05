@@ -28,10 +28,10 @@ Market-Basket-Analysis/
 Dataset bersumber dari Kaggle: *Retail Sales Dataset*  
 Data ini merepresentasikan penjualan toko online dengan total **461.773 baris** dan **7 kolom** utama.  
 
-- **Periode Data**: Januari – Desember 2010  
-- **Ukuran Data**: 461.773 baris, 7 kolom  
-- **Karakteristik Data**: berisi transaksi penjualan mencakup informasi pesanan, produk, jumlah, harga, dan pelanggan.  
-- **Struktur Kolom**:  
+- Periode Data: Januari – Desember 2010  
+- Ukuran Data: 461.773 baris, 7 kolom  
+- Karakteristik Data: berisi transaksi penjualan mencakup informasi pesanan, produk, jumlah, harga, dan pelanggan.  
+- Struktur Kolom:  
   - Data Transaksi Penjualan → `order_id`, `order_date`  
   - Informasi Produk → `product_code`, `product_name`, `quantity`, `price`  
   - Informasi Pelanggan → `customer_id`  
@@ -61,12 +61,12 @@ Dashboard interaktif ini memungkinkan pengguna untuk memantau performa keseluruh
 ## 🔧 Teknologi dan Tools  
 Analisis dilakukan menggunakan Python dengan dukungan library utama:  
 
-- **Bahasa Pemrograman**: `Python`  
-- **Analisis Data**: `Pandas`, `NumPy`  
-- **Market Basket Analysis**: `MLxtend` (Apriori algorithm, Association Rules)  
-- **Visualisasi Data**: `Matplotlib`, `Seaborn`  
-- **Visualisasi Interaktif**: `Power BI`   
-- **Lingkungan Pengembangan**: `Jupyter Notebook`  
+- Bahasa Pemrograman: `Python`  
+- Analisis Data: `Pandas`, `NumPy`  
+- Market Basket Analysis: `MLxtend` (Apriori algorithm, Association Rules)  
+- Visualisasi Data: `Matplotlib`, `Seaborn`  
+- Visualisasi Interaktif: `Power BI`   
+- Lingkungan Pengembangan: `Jupyter Notebook`  
 
 ---
 
