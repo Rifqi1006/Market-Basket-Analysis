@@ -65,7 +65,7 @@ Analisis dilakukan menggunakan Python dengan dukungan library utama:
 - Market Basket Analysis: `MLxtend` (Apriori algorithm, Association Rules)  
 - Visualisasi Data: `Matplotlib`, `Seaborn`  
 - Visualisasi Interaktif: `Power BI`   
-- Lingkungan Pengembangan: `Jupyter Notebook`  
+- Environment: `Jupyter Notebook`    
 
 ---
 
